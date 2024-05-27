@@ -4,6 +4,7 @@
 <h1 align="center"></h1>
 <h3 align="center">I am currently working on a Device Tree for the Redmi Note 11S</h3>
 <h3 align="center">And finished a TWRP Tree for the Redmi Note 11 Pro 4G</h1>
+<h1 align="center"></h1>
 
 - I am from Macedonia 🇲🇰
 
