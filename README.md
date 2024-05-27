@@ -9,4 +9,5 @@
 <h3 align="center">Contacts</h3>
 <a href="https://t.me/nokiplays" target="_blank" rel="noopener noreferrer" style="display: flex; align-items: center; justify-content: center;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/2048px-Telegram_2019_Logo.svg.png" width="80" height="80" alt="Telegram"/>
+  <span style="margin-left: 5px;">Telegram</span>
 </a>
