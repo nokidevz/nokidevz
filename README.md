@@ -7,9 +7,11 @@
 <h1 align="center"></h1>
 
 - I am from Macedonia 🇲🇰
+- I enjoy developing 👨‍💻
+- I like playing Minecraft 🎮
 
 <h3 align="center">Contacts</h3>
 
-<div style="text-align:center;">
+<div align="center">
   [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/2048px-Telegram_2019_Logo.svg.png" width="80" height="80" alt="Telegram"/> Telegram](https://t.me/nokiplays)
 </div>
