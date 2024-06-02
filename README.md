@@ -10,6 +10,13 @@
 - I enjoy developing 👨‍💻
 - I like playing Minecraft 🎮
 
+
+## Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=nokidevz&show_icons=true&theme=onedark&count_private=true)
+
+![Top](https://github-readme-stats.vercel.app/api/top-langs/?username=nokidevz&layout=compact&theme=onedark&count_private=true)
+
 <h3 align="center">Telegram</h3>
 
 <div align="center" href="https://t.me/nokiplays" target="_blank">
