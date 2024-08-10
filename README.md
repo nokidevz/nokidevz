@@ -2,8 +2,8 @@
 <h3 align="center">I am interested in AOSP</h3>
 <h3 align="center">and many other categories!</h1>
 <h1 align="center"></h1>
-<h3 align="center">I am currently working on a unification between</h3>
-<h3 align="center">Redmi Note 11S/Redmi Note 12S/POCO M4 Pro</h1>
+<h3 align="center">I am currently working on trees for</h3>
+<h3 align="center">Redmi Note 11S/POCO M4 Pro</h1>
 <h1 align="center"></h1>
 
 - I am from Macedonia 🇲🇰
