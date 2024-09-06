@@ -1,5 +1,4 @@
-<h1 align="center">Hello! I am NokiP1</h1>
-<h1 align="center"></h1>
+<h1 align="center">Hello! I am Noki!</h1>
 <h3 align="center">Currently working on trees for</h3>
 <h3 align="center">Redmi Note 11S/POCO M4 Pro</h1>
 <h1 align="center"></h1>
